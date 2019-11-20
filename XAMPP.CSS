@@ -1,0 +1,22 @@
+h2{
+    color:black;
+    border:5px solid gold;
+}
+
+table, th, td{
+    border:solid red 2px;
+    border-collapse: collapse;
+    padding:5px;
+    width:50%;
+    text-align:center;
+      margin-left:25%;
+}
+form{
+    text-align:center;
+    background-color:black;
+    color:gold;
+    padding:5px;
+    width:50%;
+    margin-left:25%;
+    border:solid blue 2px;
+}
